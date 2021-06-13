@@ -56,11 +56,18 @@
 
         //Vertically centered the children
         align-items: center;
+        p {
+            margin: 0;
+        }
     }
 
     .amount {
         padding: 5px;
         border-radius: 3px;
+
+        p {
+            margin: 0;
+        }
     }
 }
 
